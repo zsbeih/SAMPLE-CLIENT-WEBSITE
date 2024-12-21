@@ -1,4 +1,5 @@
 Great Lakes Meat Processing - Website
+
 This repository contains the website developed for Great Lakes Meat Processing, a company specializing in high-quality, locally sourced meats. The website serves as an online platform for customers to explore products, place orders, and learn more about the company's offerings and services.
 
 Features
